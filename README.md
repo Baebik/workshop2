@@ -3,4 +3,4 @@
 
 ** Hello **
 
-* Italic 
+* Italic *
