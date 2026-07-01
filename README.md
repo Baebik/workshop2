@@ -1,8 +1,6 @@
 # This is heading1
 #This is a heading
-
-** Hello **
-
-* Italic *
+**Hello**
+*Italic*
 'Inline code'
 -bullet
