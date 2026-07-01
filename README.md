@@ -4,3 +4,4 @@
 ** Hello **
 
 * Italic *
+'Inline code'
