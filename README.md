@@ -5,3 +5,4 @@
 
 * Italic *
 'Inline code'
+-bullet
